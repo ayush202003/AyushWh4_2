@@ -2,8 +2,8 @@
 {
   "libs": [
     {
-      "name": "libitsayushWh.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWh.so"
+      "name": "libitsayushWhTurnamnt.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhTurnamnt.so"
     }
   ],
   "libs2": [
