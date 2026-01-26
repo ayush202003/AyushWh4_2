@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libitsayushWhTurnamnt.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhTurnamnt.so"
+      "name": "libitsayushWhY.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhY.so"
     }
   ],
   "libs2": [
@@ -16,6 +16,6 @@
   "message": "This version has On Update. Please join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
   "wh_expiry": "20251230",
-  "floating_text": "💥TURNAMENT-@GX_KINGXX-WH 4.2",
+  "floating_text": "💥TELEGRAM-@GX_KINGXX-WH 4.2 ☠️",
   "left_text": "Version-4.1.0"
 }
