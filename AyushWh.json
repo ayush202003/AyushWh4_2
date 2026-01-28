@@ -2,14 +2,14 @@
 {
   "libs": [
     {
-      "name": "libitsayushWhFix.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhFix.so"
+      "name": "libitsayushWh.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWh.so"
     }
   ],
   "libs2": [
     {
-      "name2": "libitsayushWhFix.so",
-      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhFix.so"
+      "name2": "libitsayushWh.so",
+      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWh.so"
     }
   ],
   "expiry_date": "2026-12-30",
