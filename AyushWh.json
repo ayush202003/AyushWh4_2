@@ -2,14 +2,14 @@
 {
   "libs": [
     {
-      "name": "libTurnamentsWh.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libTurnamentsWh.so"
+      "name": "libitsayushWhG.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
   "libs2": [
     {
-      "name2": "libTurnamentsWh.so",
-      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libTurnamentsWh.so"
+      "name2": "libitsayushWhG.so",
+      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
   "expiry_date": "2026-12-30",
