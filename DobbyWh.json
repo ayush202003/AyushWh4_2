@@ -1,0 +1,21 @@
+{
+  "libs": [
+    {
+      "name": "libDobbyWh.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libDobbyWh.so"
+    }
+  ],
+  "libs2": [
+    {
+      "name2": "libDobbyWh.so",
+      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libDobbyWh.so"
+    }
+  ],
+  "expiry_date": "2026-12-30",
+  "title": "Application Update!!",
+  "message": "This version has On Update. Please join our Telegram channel for the latest update.",
+  "telegram": "https://t.me/yourChannel",
+  "wh_expiry": "20251230",
+  "floating_text": "💥DEVELOPER:@GX_KINGXX-WH 4.2 ☠️",
+  "left_text": "Version-4.1.0"
+}
