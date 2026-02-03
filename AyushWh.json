@@ -1,4 +1,4 @@
-//Public Mod 
+
 {
   "libs": [
     {
@@ -12,7 +12,7 @@
       "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
-  "expiry_date": "2026-12-30",
+  "expiry_date": "2026-02-10",
   "title": "Application Update!!",
   "message": "This version has On Update. Please join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
