@@ -1,13 +1,13 @@
 {
   "libs": [
     {
-      "name": "libitsayushWhG.so",
+      "name": "libitsayushWhY.so",
       "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
   "libs2": [
     {
-      "name2": "libitsayushWhG.so",
+      "name2": "libitsayushWhY.so",
       "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
@@ -17,6 +17,6 @@
   "message": "This version has On Update. Please join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
   "wh_expiry": "20261230",
-  "floating_text": "💥DEVELOPER>@GX_KINGXX-WH 4.2🔥",
+  "floating_text": "💥DEVELOPER>@GX_KINGXX-WH 4.2👺",
   "left_text": "Version-4.1.0"
 }
