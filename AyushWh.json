@@ -1,14 +1,14 @@
 {
   "libs": [
     {
-      "name": "libitsayushWhY.so",
+      "name": "libitsayushWhG.so",
       "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
   "libs2": [
     {
-      "name2": "libitsayushWhY.so",
-      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
+      "name2": "libxx.so",
+      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libxx.so"
     }
   ],
   "toast_message": "Modded By",
@@ -17,6 +17,6 @@
   "message": "This version has On Update. Please join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
   "wh_expiry": "20261230",
-  "floating_text": "💥DEVELOPER>@GX_KINGXX-WH 4.2👺",
+  "floating_text": "💥DEVELOPER>@GX_KINGXX-Wallhack 64Bit🔥",
   "left_text": "Version-4.1.0"
 }
