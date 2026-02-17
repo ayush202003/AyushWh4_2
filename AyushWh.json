@@ -7,12 +7,12 @@
   ],
   "libs2": [
     {
-      "name2": "libxx.so",
-      "url2": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libxx.so"
+      "name": "libxx.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libxx.so"
     }
   ],
-  "toast_message": "Modded By",
-  "expiry_date": "2026-02-17",
+  "toast_message": "Modded By GX KINGXX",
+  "expiry_date": "2026-02-24",
   "title": "Application Update!!",
   "message": "This version has On Update. Please join our Telegram channel for the latest update.",
   "telegram": "https://t.me/yourChannel",
