@@ -3,13 +3,13 @@
   "libs": [
     {
       "name": "libitsayushWhG.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhGv2.so"
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
   "libs2": [
     {
       "name": "libitsayushWhG.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhGv2.so"
+      "url": "https://raw.githubusercontent.com/ayush202003/AyushWh4_2/refs/heads/main/libitsayushWhG.so"
     }
   ],
   "expiry_date": "2026-02-30",
